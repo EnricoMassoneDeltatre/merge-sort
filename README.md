@@ -1,2 +1,2 @@
-# merge-sort
+# Merge Sort
 Javascript implementation of merge sort algorithm
